@@ -1,0 +1,41 @@
+body {
+  font  : 21px sans-serif;
+  font-size: 20px;
+  width: 50%;
+  margin-top: 50px;
+  margin-right: 400px;
+  margin-left: 700px;
+  margin-bottom: 100px;
+  background-image: url("..//image.jpg");
+
+}
+h1 {
+  margin-left: 80px;
+  margin-right: 400px;
+}
+
+p2 { font-family: georgia;
+    font-size: 15px;
+    color: red;
+  }
+  input[type=text], select {
+      width: 35%;
+      padding: 8px;
+      margin: 5px 0;
+  }
+  input[type=tel], select {
+      width: 35%;
+      padding: 8px;
+      margin: 5px 0;
+  }
+  input[type=date], select {
+      width: 35%;
+      padding: 8px;
+      margin: 5px 0;
+}
+Button {
+  width: 25%;
+  padding: 8px;
+  color: black;
+  background-color: lightgreen;
+}
